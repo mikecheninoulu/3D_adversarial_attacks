@@ -109,17 +109,17 @@ Mover’s Distance (EMD),solid
 - github: [https://github.com/hkust-vgd/minimal_adversarial_pcd](https://github.com/hkust-vgd/minimal_adversarial_pcd)
 
 
-**[14] Imperceptible Transfer Attack and Defense on 3D Point Cloud Classification
+**[14] Imperceptible Transfer Attack and Defense on 3D Point Cloud Classification**
 - intro: TPAMI2022
 - arXiv: https://arxiv.org/pdf/2111.10990.pdf
 - no code
 
-**[15] Local Aggressive Adversarial Attacks on 3D Point Cloud
+**[15] Local Aggressive Adversarial Attacks on 3D Point Cloud**
 - intro: ACML2021
 - arXiv: https://proceedings.mlr.press/v157/sun21a/sun21a.pdf
 - github: [https://github.com/Chenfeng1271/L3A](https://github.com/Chenfeng1271/L3A)
 
-**[16] Local Aggressive Adversarial Attacks on 3D Point Cloud
+**[16] DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense**
 - intro: ICCV 2019, DUP-Net
 - paper: https://openaccess.thecvf.com/content_ICCV_2019/html/Zhou_DUP-Net_Denoiser_and_Upsampler_Network_for_3D_Adversarial_Point_Clouds_ICCV_2019_paper.html
 - github: [https://github.com/RyanHangZhou/tensorflow-DUP-Net](https://github.com/RyanHangZhou/tensorflow-DUP-Net)
