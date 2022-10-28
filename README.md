@@ -127,7 +127,8 @@ Mover’s Distance (EMD),solid
 
 
 
-##Others**
+##Others
+
 **[1] Hindering Adversarial Attacks with Implicit Neural Representations**
 - intro: ICML 2022, 
 - paper: https://proceedings.mlr.press/v162/rusu22a.html
@@ -135,7 +136,7 @@ Mover’s Distance (EMD),solid
 - github: [https://github.com/deepmind/linac](https://github.com/deepmind/linac)
 
 
-**[2] TPU-GAN: Learning temporal coherence from dynamic point cloud sequences **
+**[2] TPU-GAN: Learning temporal coherence from dynamic point cloud sequences**
 - intro: ICLR2022, umsampling to build up 4D features
 - paper: [https://openreview.net/pdf?id=FEBFJ98FKx](https://openreview.net/pdf?id=FEBFJ98FKx)
 - no code
