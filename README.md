@@ -127,7 +127,7 @@ Mover’s Distance (EMD),solid
 
 
 
-##Others
+##Others##
 
 **[1] Hindering Adversarial Attacks with Implicit Neural Representations**
 - intro: ICML 2022, 
@@ -142,7 +142,9 @@ Mover’s Distance (EMD),solid
 - no code
 - More about 4D point cloud: https://github.com/hehefan/Awesome-Dynamic-Point-Cloud-Analysis
 
-
+**[3] On Evaluating Adversarial Robustness**
+- intro: the reason why IF defense is rejected--not consider this, by reviewers
+- https://nicholas.carlini.com/papers/2019_howtoeval.pdf
 
 ## DATASET
  Manifold40, ModelNet40, ShapeNet, ScanObjectNN
