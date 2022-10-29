@@ -127,7 +127,7 @@ Mover’s Distance (EMD),solid
 
 
 
-##Others##
+## Others
 
 **[1] Hindering Adversarial Attacks with Implicit Neural Representations**
 - intro: ICML 2022, 
