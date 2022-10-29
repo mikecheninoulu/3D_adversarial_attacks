@@ -2,7 +2,7 @@
 
 # Papers
 ## 3D architectures
-***Autoencoder
+*** Autoencoder
  
 **[1] Point Transformer**
 - intro: ICCV 2021, first work of point 3D with Transformer, learnable position embedding, transition down and up
@@ -20,7 +20,7 @@ Mover’s Distance (EMD),solid
 - arxiv: [https://arxiv.org/pdf/2003.00492.pdf](https://arxiv.org/pdf/2003.00492.pdf)
 - code: [https://github.com/yanx27/PointASNL](https://github.com/yanx27/PointASNL)
 
-***Loss terms
+*** Loss terms
 
 **[1] A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion**
 - intro: ICLR 2022, Point Diffusion-Refinement, denoising diffusion probabilistic model (DDPM)
