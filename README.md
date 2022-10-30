@@ -20,6 +20,13 @@ Mover’s Distance (EMD),solid
 - arxiv: [https://arxiv.org/pdf/2003.00492.pdf](https://arxiv.org/pdf/2003.00492.pdf)
 - code: [https://github.com/yanx27/PointASNL](https://github.com/yanx27/PointASNL)
 
+**[4] Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training**
+- intro: NeurIPS 2022, pyramid architectures.
+- arxiv: [https://arxiv.org/pdf/2205.14401.pdf](https://arxiv.org/pdf/2205.14401.pdf)
+- code: [https://github.com/ZrrSkywalker/Point-M2AE](https://github.com/ZrrSkywalker/Point-M2AE)
+
+
+
 *** Loss terms
 
 **[1] A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion**
@@ -145,6 +152,8 @@ Mover’s Distance (EMD),solid
 **[3] On Evaluating Adversarial Robustness**
 - intro: the reason why IF defense is rejected--not consider this, by reviewers
 - https://nicholas.carlini.com/papers/2019_howtoeval.pdf
+
+Diffusion is all your need: DiffusionNet: Discretization Agnostic Learning on Surfaces
 
 ## DATASET
  Manifold40, ModelNet40, ShapeNet, ScanObjectNN
